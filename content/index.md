@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to NotesToSelf
 ---
 Here is where I leave some Notes to Self. 
 
