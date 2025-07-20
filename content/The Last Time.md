@@ -3,7 +3,7 @@ title: The Last Time
 draft: false
 tags:
 ---
- 
+You should probably start with reading [[Introduction]] 
 There comes a last time for everything. For most things, we're not going to know.
 
 The other day, my wife had the sudden realisation that our son, aged 15 months, was not crawling anymore. He was done. Probably never again were we going to see him on all fours, moving his butt in a cute swaying motion as he rushed towards his favourite ball in as frantic a manner as he could manage.
