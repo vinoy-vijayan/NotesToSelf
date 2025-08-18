@@ -2,6 +2,7 @@
 title: The Last Time
 draft: false
 tags:
+  - blog
 ---
 You should probably start with reading [[Introduction]] 
 There comes a last time for everything. For most things, we're not going to know.
